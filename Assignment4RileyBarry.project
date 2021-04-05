@@ -30,8 +30,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "employeeNames",
+            "employeeNames.json"
           ]
         }
       ],
@@ -54,7 +54,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "customerInfo",
+      "firstform": "employeeNames",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
