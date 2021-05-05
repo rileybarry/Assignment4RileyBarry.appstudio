@@ -1,3 +1,4 @@
+/*
 var namesArr = []
 
 btnDisplay.onclick = function() {
@@ -53,3 +54,4 @@ lstDisplay.onclick = function(x) {
 btnRefresh.onclick=function(){
   location.reload()
 }
+*/

@@ -27,6 +27,24 @@
         "Elements",
         "lblInstructions.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "babyNames",
+        "Elements",
+        "btnAdd.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "babyNames",
+        "Elements",
+        "btnFavNames.json"
+      ]
     }
   ],
   "class": "",
